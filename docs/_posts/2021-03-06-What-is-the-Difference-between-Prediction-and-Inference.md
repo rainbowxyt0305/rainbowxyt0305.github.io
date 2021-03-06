@@ -1,7 +1,10 @@
+---
 layout: post
-title: "What is the Difference between Prediction and Inference"
+title: What is the Difference between Prediction and Inference
 date: 2021-03-06 12:30:15 -0000
 categories: General Data Science in Plain Words
+tags: @datascience
+---
 
 ## Motivation 
 
