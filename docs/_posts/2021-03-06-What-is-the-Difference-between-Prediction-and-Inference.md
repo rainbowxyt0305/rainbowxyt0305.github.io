@@ -1,6 +1,8 @@
+---
 layout: post
 title: What is the Difference between Prediction and Inference
-
+---
+1
 ## Motivation 
 
 You probably have somehow come across the term **data science** nowadays, whether it might be at work, at a dinner table, or maybe from your kids who actually study it at school or who works in this flied. **Data science** might sound distant, irrelevant, or black-box to you at first, but despite that, you might still want to learn more about **data science** because you want communicate with your children even better; understand what people (whether are your friends or colleagues) at the dinner table better; or if you are managing employees who have data science related backgrounds, you want to manage and work with them even more effectively.  
