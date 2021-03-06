@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is the Difference between Prediction and Inference"
+title: What is the Difference between Prediction and Inference
 ---
 
 ## Motivation 
