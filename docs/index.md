@@ -1,10 +1,12 @@
 # Welcome to Rachel Xu (Yuting Xu)'s personal blog website!
 
-You can find my first data science related blog here: https://rainbowxyt0305.github.io/2021/03/06/What-is-the-Difference-between-Prediction-and-Inference.html
+## What is the Difference between Prediction and Inference?
 
-# What is the Difference between Prediction and Inference
+**Author: Rachel Xu (Yuting Xu)**
 
-## Motivation 
+**Email:rachelxu.sauderfinance.com**
+
+### Motivation 
 
 You probably have somehow come across the term **data science** nowadays, whether it might be at work, at a dinner table, or maybe from your kids who actually study it at school or who works in this flied. **Data science** might sound distant, irrelevant, or black-box to you at first, but despite that, you might still want to learn more about **data science** because you want communicate with your children even better; understand what people (whether are your friends or colleagues) at the dinner table better; or if you are managing employees who have data science related backgrounds, you want to manage and work with them even more effectively.  
 
@@ -12,7 +14,7 @@ These are just some examples of why you might want to learn more about **data sc
 
 For example, we can use historical data about **voting** to predict which party will get the majority votes in the next election; we can use data about **breast cancer** to predict if a new patient is more likely to have benign or malignant breast cancer; we can use historical **credit card repayment** data to predict whether the customer will default on the next payment or not. There are so many use cases across different functions and areas where **data science** can be applied to solve problems very powerfully and efficiently.
 
-## `Prediction` vs. `Inference` in a Nutshell
+### `Prediction` vs. `Inference` in a Nutshell
 
 Two particularly important and essential "ingredients" in **data science** are `prediction` and `inference`. If you are still interested in learning more about **data science** at this point, then you probably want to know about these two "ingredients" and how they differ.
 
@@ -20,7 +22,7 @@ At a higher level, I would say, one of the main purposes of **data science** is 
 
 Well, `prediction` is probably more straightforward to relate as we are just **predicting (as the name suggests) new unseen things based on some given information or data** to be more formal. On the other hand, `inference` is more about **finding the underlying relationships between existing objects in the data**, instead of focusing on predicting things.
 
-## `Prediction` with examples
+### `Prediction` with examples
 
 In fact, the earlier examples listed on **voting**, **breast cancer**, and **credit card repayment** are all about `prediction` rather than inference. Let's look at them a little bit closer to understand `prediction` better in a **data science** context. 
 
@@ -30,7 +32,7 @@ In fact, the earlier examples listed on **voting**, **breast cancer**, and **cre
 
 * In the case of **credit card repayment**, we want to know if an existing customer would default on his/her next credit card payment based on historical data on his/her repayment history or personal information, so we are predicting an unforeseeable future credit card repayment result.
 
-## `Inference` with examples
+### `Inference` with examples
 
 On the other hand, if instead, what we are interested is finding the underlying relationships in the above three examples, then we will be doing `inference`.
 
@@ -40,7 +42,7 @@ On the other hand, if instead, what we are interested is finding the underlying 
 
 * In the case of **credit card repayment**, if we want to know what made customers more likely to default on credit card payments (i.e. last payment status), this will become an inference problem because we are trying to find the relationship between the last payment status and the likelihood of defaulting on credit card repayments based on historical data about the clients.
 
-## Summary
+### Summary
 
 1. First we talked about why you might want to learn more about **data science** - whether it is for better communication with your kids; better engagement of trending conversations at a dinner table; or better management of employees. 
 
