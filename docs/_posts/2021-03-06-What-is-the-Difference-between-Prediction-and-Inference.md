@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is the Difference between Prediction and Inference
+author: Rachel(Yuting) Xu
 ---
 
 
