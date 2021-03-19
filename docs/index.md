@@ -2,9 +2,7 @@
 
 ## What is the Difference between Prediction and Inference?
 
-**Author: Rachel Xu (Yuting Xu)**
-
-**Email:rachelxu.sauderfinance.com**
+**Author:** <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="rachelxuyutingxu"><a class="LI-simple-link" href='https://ca.linkedin.com/in/rachelxuyutingxu?trk=profile-badge'>Rachel Xu</a></div>
 
 ### Motivation 
 
@@ -52,3 +50,4 @@ On the other hand, if instead, what we are interested is finding the underlying 
 
 4. The bottom line is we can use **data science** to **predict new and unforeseeable things (`prediction`)**; to **infer the underlying relationships between existing things (`inference`)**; or to make both `prediction` and `inference` based on existing information and given data. 
 
+**Email:rachelxu.sauderfinance.com**
